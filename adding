@@ -1,5 +1,7 @@
-public class AddTwoNumbers {
-    public static void main(String[] args) {
+public class AddTwoNumbers
+ {
+    public static void main(String[] args) 
+    {
         // Declare two variables to store numbers
         int num1 = 5;  
         int num2 = 7;  
